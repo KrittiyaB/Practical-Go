@@ -1,0 +1,4 @@
+github.com/KrittiyaB/Practical-Go v0.0.0-20190928043936-b327139d5294 h1:47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+github.com/KrittiyaB/Practical-Go v0.0.0-20190928043936-b327139d5294/go.mod h1:+8HxL3Ynxl09ldCxmAVsp3ruUnT1MnczauMHfSCo4T0=
+github.com/pkg/errors v0.8.1 h1:iURUrRGxPUNPdy5/HRSm+Yj6okJ6UtLINN0Q9M4+h3I=
+github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
